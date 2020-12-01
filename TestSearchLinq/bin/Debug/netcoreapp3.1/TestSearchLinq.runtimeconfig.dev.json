@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\PoixoN\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\PoixoN\\.nuget\\packages"
+    ]
+  }
+}
